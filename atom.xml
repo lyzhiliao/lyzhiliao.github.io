@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lyzhiliao.github.io</id>
     <title>什么值得学？</title>
-    <updated>2020-12-08T05:29:48.175Z</updated>
+    <updated>2020-12-08T05:40:20.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lyzhiliao.github.io"/>
     <link rel="self" href="https://lyzhiliao.github.io/atom.xml"/>
@@ -16,11 +16,9 @@
         <link href="https://lyzhiliao.github.io/post/feng-zhu-long-de-ling-ji-chu-word-jiao-cheng/">
         </link>
         <updated>2020-12-08T04:56:04.000Z</updated>
-        <summary type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://resources.jsmo.xin/templates/upload/20295/202009/1599186195733.png" alt="" loading="lazy"></figure>
-<p>关注微信公众号【干货100】获取更多优质资源！</p>
+        <summary type="html"><![CDATA[<p>关注微信公众号【干货100】获取更多优质资源！</p>
 ]]></summary>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://resources.jsmo.xin/templates/upload/20295/202009/1599186195733.png" alt="" loading="lazy"></figure>
-<p>关注微信公众号【干货100】获取更多优质资源！</p>
+        <content type="html"><![CDATA[<p>关注微信公众号【干货100】获取更多优质资源！</p>
 <!-- more -->
 <h2 id="课程内容">课程内容</h2>
 <table>
