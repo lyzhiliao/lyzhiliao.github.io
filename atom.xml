@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lyzhiliao.github.io</id>
     <title>什么值得学？</title>
-    <updated>2020-12-08T05:18:28.628Z</updated>
+    <updated>2020-12-08T05:29:48.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lyzhiliao.github.io"/>
     <link rel="self" href="https://lyzhiliao.github.io/atom.xml"/>
@@ -17,9 +17,12 @@
         </link>
         <updated>2020-12-08T04:56:04.000Z</updated>
         <summary type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://resources.jsmo.xin/templates/upload/20295/202009/1599186195733.png" alt="" loading="lazy"></figure>
+<p>关注微信公众号【干货100】获取更多优质资源！</p>
 ]]></summary>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://resources.jsmo.xin/templates/upload/20295/202009/1599186195733.png" alt="" loading="lazy"></figure>
+<p>关注微信公众号【干货100】获取更多优质资源！</p>
 <!-- more -->
+<h2 id="课程内容">课程内容</h2>
 <table>
 <thead>
 <tr>
@@ -231,6 +234,7 @@
 </tr>
 </tbody>
 </table>
+<h2 id="获取课程">获取课程</h2>
 ]]></content>
     </entry>
     <entry>
